@@ -1,0 +1,3 @@
+export const GRID_CONSTANTS = {
+  Letters: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+};
