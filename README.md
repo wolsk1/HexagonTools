@@ -11,6 +11,9 @@ Code for drawing Hexagons and hex grids on an HTML5 canvas. Companion code to He
 ![Example Hex](https://github.com/mpalmerlee/HexagonTools/blob/master/examplehex.png?raw=true)
 ![Hex Grid](https://github.com/mpalmerlee/HexagonTools/blob/master/HexGrid.png?raw=true)
 
+Example (Angular)
+https://stackblitz.com/edit/hex-tools?embed=1&file=src/app/hex-tools/grid.model.ts&view=preview
+
 License
 =======
 This HexagonTools code is released under the MIT License.
